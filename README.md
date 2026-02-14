@@ -5,4 +5,4 @@ This project analyses the impact of COVID on the print media industry and highli
 # Dashboard
 
 
-[Digital](Digital%20performance.png)
+![Digital Performance](Digital%20performance.png)
